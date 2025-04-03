@@ -262,6 +262,7 @@ recipients = [
     "0xD1e4615d8498fC55E21C6191582DC843D08F464F",
     "0xf77378F08a0867c1310A3Cf7a671957de7976D1A",
     "0x61760E7FE6C2d40cDdcb366F8D263BB250C1FF6F",
+]
 
 # ABI ERC-20 Transfer function
 ERC20_ABI = '[{"constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transfer","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"}]'
